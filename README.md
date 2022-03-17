@@ -1,16 +1,27 @@
 ### Hi there 👋
 
-<!--
-**KowsarRahman/KowsarRahman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on assignments
+- 🌱 I’m currently learning Cloud Computing
+- 👯 I’m looking to collaborate on Any Cool Idea
+- 🤔 I’m looking for help with Depends
+- 💬 Ask me about Anything
+- 📫 How to reach me: saditsnigdho@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I am not funny
+
+<br></br>
+
+<h1>Notable Projects where I gave my time:</h1>
+
+<ol>
+  <li>https://github.com/rmit-wdt-fs-2022/s3825159-s3849223-a2 (Banking Website built using C# and asp.net)</li>
+  <li>https://github.com/rmit-wdt-fs-2022/s3825159-a3 (API built using C# and a bit of front end stuff)
+  <li>https://github.com/DavidAziz3825605/G03-Software.Eng-Tools-and-Process (Full Stack E-Commerce Application)</li>
+</ol>
+
+[![Kowsar's GitHub stats](https://github-readme-stats.vercel.app/api?username=KowsarRahman)](https://github.com/KowsarRahman/github-readme-stats)<br></br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KowsarRahman)](https://github.com/KowsarRahman/github-readme-stats)
