@@ -4,14 +4,14 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on assignments
-- 🌱 I’m currently learning Cloud Computing
-- 👯 I’m looking to collaborate on Any Cool Idea
-- 🤔 I’m looking for help with Depends
-- 💬 Ask me about Anything
+- 🔭 I’m currently working on: Assignments
+- 🌱 I’m currently learning; Cloud Computing
+- 👯 I’m looking to collaborate on: Any Cool Idea
+- 🤔 I’m looking for help: Depends
+- 💬 Ask me about: Anything
 - 📫 How to reach me: saditsnigdho@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I am not funny
+- ⚡ Fun fact: I am not funny :p 
 
 <br></br>
 
