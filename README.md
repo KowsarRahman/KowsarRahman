@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 <h1>Notable Projects where I gave my time:</h1>
 
 <ol>
+  <li>https://github.com/KowsarRahman/cc-a1-frontend (E-Commerce application built using AWS)</li>
+  <li>https://github.com/KowsarRahman/cc-a1-backend (Backend of that E-commerce application)</li>
   <li>https://github.com/rmit-wdt-fs-2022/s3825159-s3849223-a2 (Banking Website built using C# and asp.net)</li>
   <li>https://github.com/rmit-wdt-fs-2022/s3825159-a3 (API built using C# and a bit of front end stuff)
   <li>https://github.com/KowsarRahman/Boockeroo (Full Stack E-Commerce Application)</li>
