@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 <ol>
   <li>https://github.com/KowsarRahman/Boockeroo (Full Stack E-Commerce Application built using React and Springboot hosted on AWS)</li>
   <li>https://github.com/saditrahman/Qwirkle-Game (Command line game called Qwirkle built using C++)</li>
+  <li>https://github.com/KowsarRahman/Simple-Pos-Software (A comprehensive POS (Point of Sales) software built using JavaSwing and JBDC)</li>
 </ol>
 
 [![Kowsar's GitHub stats](https://github-readme-stats.vercel.app/api?username=KowsarRahman)](https://github.com/KowsarRahman/github-readme-stats)<br></br>
