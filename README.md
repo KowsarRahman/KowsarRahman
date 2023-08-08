@@ -4,23 +4,19 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on: Assignments, Job Applications
-- 🌱 I’m currently learning: Cloud Computing, Machine Learning
-- 👯 I’m looking to collaborate on: Any Cool Idea
-- 🤔 I’m looking for help: Not really at the moment
+- 🌱 I’m currently learning: AWS Solution Architect Certification
+- 👯 I’m currently working on: CarReatil - a car buying and selling platform
 - 💬 Ask me about: Node.js, JavaScript, React
 - 📫 How to reach me: saditsnigdho@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I am easy going and friendly
 
 <br></br>
 
 <h1>Notable Projects where I gave my time:</h1>
 
 <ol>
-  <li>https://github.com/KowsarRahman/Boockeroo (Full Stack E-Commerce Application)</li>
-  <li>https://github.com/rmit-wdt-fs-2022/s3825159-s3849223-a2 (Banking Website built using C# and asp.net)</li>
-  <li>https://github.com/rmit-wdt-fs-2022/s3825159-a3 (API built using C# and a bit of front end stuff)
+  <li>https://github.com/KowsarRahman/Boockeroo (Full Stack E-Commerce Application built using React and Springboot hosted on AWS)</li>
+  <li>https://github.com/saditrahman/Qwirkle-Game (Command line game called Qwirkle built using C++)</li>
 </ol>
 
 [![Kowsar's GitHub stats](https://github-readme-stats.vercel.app/api?username=KowsarRahman)](https://github.com/KowsarRahman/github-readme-stats)<br></br>
