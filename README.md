@@ -2,10 +2,8 @@
 
 
 
-Here are some ideas to get you started:
-
 - 🌱 I’m currently learning: AWS Solution Architect Certification
-- 👯 I’m currently working on: CarReatil - a car buying and selling platform
+- 👯 I’m currently working on: CarRetail - a car buying and selling platform
 - 💬 Ask me about: Node.js, JavaScript, React
 - 📫 How to reach me: saditsnigdho@gmail.com
 - 😄 Pronouns: He/Him
